@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LoganC626
 - 👀 I’m interested in programming in general, mainly web development and game development.
 - 🌱 I’m currently learning a lot, new to git.
-- 💞️ I’m looking to collaborate on almost anything, web or game is prefered, cause that is where most of my knowlege is.
+- 💞️ I’m looking to collaborate on almost anything, web or game is prefered, cause that is where most of my knowlege is. I mainly work with C#, Java, Html, and Css.
 - 📫 How to reach me, here or my email. -(logancarter20032004@gmail.com)
 
 <!---
